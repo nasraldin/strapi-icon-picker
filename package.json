@@ -38,32 +38,32 @@
     "test:ts:back": "run -T tsc -p server/tsconfig.json"
   },
   "dependencies": {
-    "@strapi/design-system": "^2.0.0-rc.30",
-    "@strapi/icons": "^2.0.0-rc.30",
+    "@strapi/design-system": "^2.0.2",
+    "@strapi/icons": "^2.0.2",
     "duo-icons": "^1.1.4",
     "lucide-react": "^0.562.0",
-    "react-intl": "^8.0.4"
+    "react-intl": "^8.0.6"
   },
   "devDependencies": {
     "@strapi/sdk-plugin": "^5.3.2",
     "@strapi/strapi": "^5.33.0",
     "@strapi/typescript-utils": "^5.33.0",
-    "@types/react": "^19.2.7",
-    "@types/react-dom": "^19.2.3",
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.7",
     "prettier": "^3.7.4",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.30.2",
-    "styled-components": "^6.1.19",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.22.3",
+    "styled-components": "6.1.19",
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
     "@strapi/sdk-plugin": "^5.3.2",
     "@strapi/strapi": "^5.33.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.30.2",
-    "styled-components": "^6.1.19"
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.22.3",
+    "styled-components": "6.1.19"
   },
   "strapi": {
     "kind": "plugin",
@@ -82,10 +82,5 @@
     "url": "git+https://github.com/nasraldin/strapi-icon-picker.git"
   },
   "license": "MIT",
-  "author": "Nasr Aldin",
-  "engines": {
-    "node": ">=22",
-    "npm": ">=8",
-    "yarn": ">=1.22.22"
-  }
+  "author": "Nasr Aldin"
 }
