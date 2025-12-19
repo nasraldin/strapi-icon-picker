@@ -1,0 +1,21 @@
+{
+  "customField.label": "Icon Picker",
+  "customField.description": "Select an icon from Lucide or Duo Icons",
+  "customField.options.required": "Required field",
+  "customField.options.required.description": "You won't be able to create an entry if this field is empty",
+  "component.selectIcon": "Select Icon",
+  "component.changeIcon": "Change Icon",
+  "component.noIconSelected": "No icon selected",
+  "component.library.lucide": "Lucide",
+  "component.library.duo": "Duo",
+  "component.modal.title": "Select an Icon",
+  "component.modal.searchPlaceholder": "Search icons...",
+  "component.modal.lucide": "Lucide",
+  "component.modal.duo": "Duo",
+  "component.modal.cancel": "Cancel",
+  "component.modal.closeDialog": "Close dialog",
+  "component.modal.noResults": "No {library} icons found matching \"{query}\"",
+  "component.modal.totalAvailable": "Total available: {count} icons",
+  "component.modal.loadingMore": "Loading more icons... ({visible} of {total})",
+  "component.modal.loadMore": "Load More"
+}

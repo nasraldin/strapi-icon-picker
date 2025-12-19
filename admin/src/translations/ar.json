@@ -1,0 +1,21 @@
+{
+  "customField.label": "منتقي الأيقونات",
+  "customField.description": "اختر أيقونة من مكتبة Lucide أو Duo Icons",
+  "customField.options.required": "حقل مطلوب",
+  "customField.options.required.description": "لن تتمكن من إنشاء إدخال إذا كان هذا الحقل فارغًا",
+  "component.selectIcon": "اختر أيقونة",
+  "component.changeIcon": "تغيير الأيقونة",
+  "component.noIconSelected": "لم يتم اختيار أيقونة",
+  "component.library.lucide": "Lucide",
+  "component.library.duo": "Duo",
+  "component.modal.title": "اختر أيقونة",
+  "component.modal.searchPlaceholder": "ابحث عن الأيقونات...",
+  "component.modal.lucide": "Lucide",
+  "component.modal.duo": "Duo",
+  "component.modal.cancel": "إلغاء",
+  "component.modal.closeDialog": "إغلاق النافذة",
+  "component.modal.noResults": "لم يتم العثور على أيقونات {library} تطابق \"{query}\"",
+  "component.modal.totalAvailable": "المجموع المتاح: {count} أيقونة",
+  "component.modal.loadingMore": "جاري تحميل المزيد من الأيقونات... ({visible} من {total})",
+  "component.modal.loadMore": "تحميل المزيد"
+}
