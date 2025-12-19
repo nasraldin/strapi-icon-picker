@@ -82,5 +82,10 @@
     "url": "git+https://github.com/nasraldin/strapi-icon-picker.git"
   },
   "license": "MIT",
-  "author": "Nasr Aldin"
+  "author": "Nasr Aldin",
+  "engines": {
+    "node": ">=22",
+    "npm": ">=8",
+    "yarn": ">=1.22.22"
+  }
 }
