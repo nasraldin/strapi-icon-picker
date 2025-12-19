@@ -220,7 +220,7 @@ Additional languages can be added by contributing translation files.
 
 ```bash
 git clone <repository-url>
-cd strapi-icon-picker-x
+cd strapi-icon-picker
 ```
 
 2. Install dependencies:
