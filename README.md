@@ -16,22 +16,22 @@ A custom field plugin for Strapi v5 that allows content editors to easily select
 ### Using npm
 
 ```bash
-npm install strapi-plugin-icon-picker
+npm install strapi-icon-picker-x
 ```
 
 ### Using yarn
 
 ```bash
-yarn add strapi-plugin-icon-picker
+yarn add strapi-icon-picker-x
 ```
 
 ### Using pnpm
 
 ```bash
-pnpm add strapi-plugin-icon-picker
+pnpm add strapi-icon-picker-x
 ```
 
-> **Note**: Replace `strapi-plugin-icon-picker` with your actual npm package name when published.
+> **Note**: Replace `strapi-icon-picker-x` with your actual npm package name when published.
 
 ## Configuration
 
@@ -43,12 +43,11 @@ After installation, register the plugin in your Strapi configuration file:
 export default () => ({
   'icon-picker': {
     enabled: true,
-    resolve: './node_modules/strapi-plugin-icon-picker',
   },
 });
 ```
 
-> **Note**: Replace `strapi-plugin-icon-picker` with your actual npm package name when published.
+> **Note**: Replace `strapi-icon-picker-x` with your actual npm package name when published.
 
 Or if you're using a local development version:
 
@@ -221,7 +220,7 @@ Additional languages can be added by contributing translation files.
 
 ```bash
 git clone <repository-url>
-cd strapi-plugin-icon-picker
+cd strapi-icon-picker-x
 ```
 
 2. Install dependencies:
