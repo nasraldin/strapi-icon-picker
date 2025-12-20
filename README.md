@@ -11,6 +11,13 @@ A custom field plugin for Strapi v5 that allows content editors to easily select
 - 🎯 **User-Friendly**: Modern, intuitive interface with visual icon preview
 - 📱 **Responsive**: Works seamlessly in the Strapi admin panel
 
+## Screenshots
+
+![Screenshot 1](./screenshots/Screenshot%202025-12-20%20at%204.16.35 AM.png)
+![Screenshot 2](./screenshots/Screenshot%202025-12-20%20at%204.16.59 AM.png)
+![Screenshot 3](./screenshots/Screenshot%202025-12-20%20at%204.17.15 AM.png)
+![Screenshot 4](./screenshots/Screenshot%202025-12-20%20at%204.17.27 AM.png)
+
 ## Installation
 
 ### Using npm
