@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "keywords": [
     "strapi",
     "icon-picker",
@@ -38,23 +38,23 @@
     "test:ts:back": "run -T tsc -p server/tsconfig.json"
   },
   "dependencies": {
-    "@strapi/design-system": "^2.1.0",
-    "@strapi/icons": "^2.1.0",
+    "@strapi/design-system": "^2.1.2",
+    "@strapi/icons": "^2.1.2",
     "duo-icons": "^1.1.4",
-    "lucide-react": "^0.562.0",
-    "react-intl": "^8.0.11"
+    "lucide-react": "^0.563.0",
+    "react-intl": "^8.1.2"
   },
   "devDependencies": {
     "@strapi/sdk-plugin": "^5.4.0",
-    "@strapi/strapi": "^5.33.1",
-    "@strapi/typescript-utils": "^5.33.1",
-    "@types/react": "18.3.12",
-    "@types/react-dom": "18.3.7",
-    "prettier": "^3.7.4",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "react-router-dom": "6.22.3",
-    "styled-components": "6.2.0",
+    "@strapi/strapi": "^5.34.0",
+    "@strapi/typescript-utils": "^5.34.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.7",
+    "prettier": "^3.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.22.3",
+    "styled-components": "^6.3.8",
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
@@ -82,5 +82,11 @@
     "url": "git+https://github.com/nasraldin/strapi-icon-picker.git"
   },
   "license": "MIT",
-  "author": "Nasr Aldin"
+  "author": "Nasr Aldin",
+  "resolutions": {
+    "esbuild": ">=0.25.0",
+    "tmp": ">=0.2.4",
+    "tar": ">=7.5.7",
+    "lodash": ">=4.17.23"
+  }
 }
